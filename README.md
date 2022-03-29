@@ -8,3 +8,4 @@
 
 
 - Titanic [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giovanni-ollari/esercitazioni/blob/main/Esercitazione06/23_Titanic_Cross.ipynb)
+- Iris [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/giovanni-ollari/esercitazioni/blob/main/Esercitazione04/18_Iris.ipynb)
